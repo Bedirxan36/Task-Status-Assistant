@@ -1,0 +1,14 @@
+C:\Users\Bedirhan\OneDrive\Desktop\görev\TrayStatusHelper\obj\Release\net8.0-windows\TrayStatusHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bedirhan\OneDrive\Desktop\görev\TrayStatusHelper\obj\Release\net8.0-windows\TrayStatusHelper.AssemblyInfoInputs.cache
+C:\Users\Bedirhan\OneDrive\Desktop\görev\TrayStatusHelper\obj\Release\net8.0-windows\TrayStatusHelper.AssemblyInfo.cs
+C:\Users\Bedirhan\OneDrive\Desktop\görev\TrayStatusHelper\obj\Release\net8.0-windows\TrayStatusHelper.csproj.CoreCompileInputs.cache
+C:\Users\Bedirhan\OneDrive\Desktop\görev\TrayStatusHelper\obj\Release\net8.0-windows\TrayStatusHelper.genruntimeconfig.cache
+C:\Users\Bedirhan\OneDrive\Desktop\görev\TrayStatusHelper\bin\Release\net8.0-windows\TaskStatusAssistant.exe
+C:\Users\Bedirhan\OneDrive\Desktop\görev\TrayStatusHelper\bin\Release\net8.0-windows\TaskStatusAssistant.deps.json
+C:\Users\Bedirhan\OneDrive\Desktop\görev\TrayStatusHelper\bin\Release\net8.0-windows\TaskStatusAssistant.runtimeconfig.json
+C:\Users\Bedirhan\OneDrive\Desktop\görev\TrayStatusHelper\bin\Release\net8.0-windows\TaskStatusAssistant.dll
+C:\Users\Bedirhan\OneDrive\Desktop\görev\TrayStatusHelper\bin\Release\net8.0-windows\TaskStatusAssistant.pdb
+C:\Users\Bedirhan\OneDrive\Desktop\görev\TrayStatusHelper\obj\Release\net8.0-windows\TaskStatusAssistant.dll
+C:\Users\Bedirhan\OneDrive\Desktop\görev\TrayStatusHelper\obj\Release\net8.0-windows\refint\TaskStatusAssistant.dll
+C:\Users\Bedirhan\OneDrive\Desktop\görev\TrayStatusHelper\obj\Release\net8.0-windows\TaskStatusAssistant.pdb
+C:\Users\Bedirhan\OneDrive\Desktop\görev\TrayStatusHelper\obj\Release\net8.0-windows\ref\TaskStatusAssistant.dll
